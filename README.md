@@ -1,6 +1,10 @@
-## Hi there 👋
-
+Guilherme Viana - Desenvolvedor Full Stack 🚀
 <!--
+Seja muito bem-vindo ao meu perfil! Sou Guilherme Estevan, um entusiasta apaixonado por tecnologia. 🌐
+
+🎓 Formação Acadêmica
+Engenheiro Mecânico
+Desenvolvimento de Sistemas no Senac
 **Guimax0304/Guimax0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

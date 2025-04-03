@@ -19,7 +19,7 @@ Seja muito bem-vindo ao meu perfil! Sou Guilherme Viana, um entusiasta apaixonad
   <img align="left" alt="nextjs" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="MySQL" height="55" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="left" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="postgresql" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+
 </div>
 
         

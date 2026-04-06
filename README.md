@@ -4,7 +4,7 @@ Seja muito bem-vindo ao meu perfil! Sou Guilherme Viana, um entusiasta apaixonad
 
 ## 🎓 Formação Acadêmica
 
-- Ciência da Computação 
+- Engenharia de Software
 
 ## 🛠️ Tecnologias e Ferramentas
 
